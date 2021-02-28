@@ -6,3 +6,4 @@ New functionality(3) (fixed bug)
 Release for 1.0 started
 Big feature changes
 Developing
+Release for 2.0 started
