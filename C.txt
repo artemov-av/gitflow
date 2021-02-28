@@ -1,0 +1,3 @@
+Small feature for the next release (fixed bug)
+Still working... (bugfix)
+Finished working
