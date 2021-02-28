@@ -2,5 +2,5 @@ This is first piece of code (with fix now)
 New functionality
 New functionality(1)
 New functionality(2)
-New functionality(3)
+New functionality(3) (fixed bug)
 Release for 1.0 started
