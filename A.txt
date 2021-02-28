@@ -1,4 +1,4 @@
-This is first piece of code
+This is first piece of code (with fix now)
 New functionality
 New functionality(1)
 New functionality(2)
