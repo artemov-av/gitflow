@@ -3,3 +3,4 @@ New functionality
 New functionality(1)
 New functionality(2)
 New functionality(3)
+Release for 1.0 started
